@@ -11,6 +11,7 @@
 }
 .filter-container > button {
   font-size: 15px;
+  cursor: pointer;
   padding: 0.2rem 0.7rem;
   border-radius: 30px;
   outline: none;
